@@ -1,5 +1,15 @@
+.banner{
+    background-color: #FEEAE9;
 
-
+}
 .categories img{
     width: 100px;
+}
+
+.mailbox{
+    height: 450px;
+    background-color: #FEEAE9;
+}
+.mail{
+    margin-right: -5px;
 }
