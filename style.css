@@ -1,6 +1,14 @@
 .banner{
     background-color: #FEEAE9;
-
+}
+.banner-text h2{
+    font-size: 60px;
+}
+.banner-text h3{
+    font-size: 40px;
+}
+.btn-color{
+    background-color: #FF136F;
 }
 .categories img{
     width: 100px;
